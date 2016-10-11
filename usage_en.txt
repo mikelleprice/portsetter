@@ -1,0 +1,10 @@
+Description:
+Gets port Number from the user, then replies that it is listening on port 'x'.
+
+Flags:
+-p, --p     calls the port
+-h, --help  calls the help message
+
+Usage:
+User must call the function with the word setport
+After, set a flag. Then the port number if applicable. 

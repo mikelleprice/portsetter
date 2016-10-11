@@ -1,0 +1,5 @@
+Escuchando en el puerto: 
+Se utilizó la bandera Inocrect.
+Demasiados argumentos
+Entorno de puerto no reconocido
+Número de puerto debe estar entre 0 y 65000

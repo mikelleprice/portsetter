@@ -1,0 +1,14 @@
+There is an unverified error. 
+
+
+DESCRIPTION
+Gets port number from the user, then replies that it is listening on port 'x'
+
+FLAGS:
+-p, --port 	 calls the port
+-h, --help 	 calls the help message
+
+USAGE:
+Then the user may either use the help flag or the port flag
+They may only use one flag at a time.
+After the flag, the user sets a port number between 1 and 65,000

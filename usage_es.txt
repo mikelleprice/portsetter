@@ -1,0 +1,12 @@
+Descripción:
+
+Obtiene el número de puerto por parte del usuario, a continuación, responde que está escuchando en el puerto 'x'.
+
+
+banderas:
+-p, -P llama el puerto
+-h, --help llama el mensaje de ayuda
+
+Uso:
+El usuario debe llamar a la función con la palabra SETPORT
+Después, establecer un indicador. A continuación, el número de puerto si es aplicable.
